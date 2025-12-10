@@ -1,0 +1,19 @@
+
+
+[
+  {
+    "image": "/images/car1.jpg",
+    "title": "Find Your Dream Car",
+    "desc": "Buy, Sell and Manage Cars Easily"
+  },
+  {
+    "image": "/images/car2.jpg",
+    "title": "Best Car Deals",
+    "desc": "Top Brands at Best Prices"
+  },
+  {
+    "image": "/images/car3.jpg", 
+    "title": "Luxury & Performance",
+    "desc": "Drive Your Passion with CarZone"
+  }
+]
