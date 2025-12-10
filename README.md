@@ -57,7 +57,7 @@ Installation and Setup
 
 Follow these steps to run the project locally:
 
-git clone https://github.com/your-username/carzone.git
+git clone https://github.com/carzone.git
 cd carzone
 npm install
 npm run dev
